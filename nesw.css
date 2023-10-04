@@ -1,0 +1,27 @@
+body {
+    background: #065A82;
+  }
+  p {
+    color:  #065A82;
+  }
+  h1 {
+    font-weight: bold;
+  }
+  h2 {
+    font-weight: bold;
+  }
+  a {
+    color: hotpink;
+  }
+  a:link, a:visited {
+    background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    background-color: red;
+  }
